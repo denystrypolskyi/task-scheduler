@@ -16,6 +16,6 @@ A web app designed to help users efficiently manage their tasks. Users can creat
 
 ## 🌐 Deployment
 
-The frontend is hosted on Google Firebase. You can try out the app [here]([https://time2num-e4729.web.app/](https://task-scheduler-6cfad.firebaseapp.com/)).
+The frontend is hosted on Google Firebase. You can try out the app [here](https://task-scheduler-6cfad.firebaseapp.com/).
 
 **Note:** If the app is loading slowly, please be patient and wait for a minute. This is because the backend server may need to start after periods of inactivity.
